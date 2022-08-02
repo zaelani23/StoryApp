@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dicoding Story App</string>
+    <string name="title_detail_activity">Detail Story</string>
+    <string name="txt_punya_akun">Sudah Punya Akun?</string>
+    <string name="txt_daftar_akun">Daftar Akun</string>
+    <string name="txt_register">Pengguna Baru? Daftar Sekarang</string>
+    <string name="txt_btn_register">Buat akun</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_nama">Nama</string>
+    <string name="txt_msg_password_error">Password kurang dari 6 karakter</string>
+    <string name="txt_msg_email_error">Email tidak valid</string>
+    <string name="txt_dicoding_logo">Dicoding Logo</string>
+    <string name="txt_loading">Loading…</string>
+    <string name="txt_gagal_load">Gagal load data!</string>
+    <string name="txt_logout">Logout</string>
+    <string name="txt_story_image">Story Image</string>
+    <string name="tv_deskripsi">Deskripsi</string>
+    <string name="title_add_story">Add Story</string>
+    <string name="txt_galery">Galery</string>
+    <string name="txt_camera">Camera</string>
+    <string name="txt_upload">Upload</string>
+    <string name="txt_coba_lagi">Coba lagi</string>
+    <string name="txt_story_map">Story Map</string>
+    <string name="title_activity_maps">Story Location</string>
+    <string name="txt_click_to_add_location">Click to add location</string>
+</resources>
